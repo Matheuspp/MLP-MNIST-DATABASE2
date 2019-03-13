@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/matthew/anaconda3/envs/skynet/tensorflow/digits_classifier/test3/meu_modelo"
+all_model_checkpoint_paths: "/home/matthew/anaconda3/envs/skynet/tensorflow/digits_classifier/test3/meu_modelo"
